@@ -1,0 +1,7 @@
+{
+  "name": "SkinGuard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
