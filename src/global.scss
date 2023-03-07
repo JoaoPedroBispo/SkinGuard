@@ -24,3 +24,21 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+:root{
+  --ion-color-tab: #00bd84;
+  --ion-color-fundo2: #399fff28;
+  --ion-color-fundo2-2: #399fffb0;
+
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ion-color-tab {
+	--ion-color-base: var(--ion-color-tab);}
+
+.ion-color-fundo2 {
+  --ion-color-base: var(--ion-color-fundo2);}
+
+ .ion-color-fundo2-2 {
+  --ion-color-base: var(--ion-color-fundo2-2);}
+
